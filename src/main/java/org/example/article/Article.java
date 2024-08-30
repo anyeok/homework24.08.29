@@ -1,3 +1,5 @@
+package main.java.org.example.article;
+
 public class Article {
     private int id;
     private String subject;
